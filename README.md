@@ -1,16 +1,20 @@
-## Hi there 👋
+# ScaredDevelopment
 
-<!--
-**halalbeatsdev/halalbeatsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on Minecraft server security, stability, and exploit mitigation.  
+Building secure, stable, and high-performance software.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CrashFilter
+Advanced protection against Minecraft server crashes and exploit attacks.  
+Designed to improve server security.
+
+> **CrashFix** — Coming Soon (2026)
+
+---
+
+## ☎️ Contact
+
+**Discord:** https://dsc.gg/scareddevelopment
+**Discord:** @halalbeatsdev
+If you are a server owner and have been affected by crashes or exploits, feel free to contact me. I'll be happy to help.
