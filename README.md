@@ -17,8 +17,6 @@ Designed to improve server security.
 
 **Discord:** https://dsc.gg/scareddevelopment
 
-
 **Discord:** @jstin.dev
-
 
 If you are a server owner and have been affected by crashes or exploits, feel free to contact me. I'll be happy to help.
