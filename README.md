@@ -6,7 +6,7 @@ Building secure, stable, and high-performance software.
 ## 🚀 Projects
 
 ### CrashFilter
-Advanced protection against Minecraft server crashes and exploit attacks.  
+Advanced protection against Minecraft server crashes.  
 Designed to improve server security.
 
 > **CrashFix** — Coming Soon (2026)
