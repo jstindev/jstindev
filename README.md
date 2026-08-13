@@ -9,13 +9,14 @@ Building secure, stable, and high-performance software.
 Advanced protection against Minecraft server crashes.  
 Designed to improve server security.
 
-> **CrashFix** — Coming Soon (2026)
+> **CrashFix** — Beta 1.0
 
 ---
 
 ## ☎️ Contact
 
 **Discord:** https://dsc.gg/scareddevelopment
+**BuiltByBit:** https://builtbybit.com/resources/crashfix-stop-crash-exploits.117650/
 
 **Discord:** @jstin.dev
 
