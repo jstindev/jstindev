@@ -16,6 +16,8 @@ Designed to improve server security.
 ## ☎️ Contact
 
 **Discord:** https://dsc.gg/scareddevelopment
+
+
 **BuiltByBit:** https://builtbybit.com/resources/crashfix-stop-crash-exploits.117650/
 
 **Discord:** @jstin.dev
