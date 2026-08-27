@@ -9,7 +9,7 @@ Building secure, stable, and high-performance software.
 Advanced protection against Minecraft server crashes.  
 Designed to improve server security.
 
-> **CrashFix** — Beta 1.0
+> **CrashFix** — Beta
 
 ---
 
