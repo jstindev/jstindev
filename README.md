@@ -13,6 +13,8 @@
 Developer with security in mind.  
 Networking since  2022.
 
+Founder of @PvPLab, @SilentMC (2021)
+
 🔭 &nbsp;I'm currently working on **CrashFix**  
 💬 &nbsp;Ask me about **Packets, Exploits**
 
