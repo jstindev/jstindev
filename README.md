@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 Developer with security in mind.  
-Networking since  2022.
+Networking since  2021.
 
 Founder of @PvPLab, @SilentMC (2021)
 
